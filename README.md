@@ -13,8 +13,8 @@ CLI interface for easy access
 Prerequisites
 Python 3.8+
 Install dependencies:
- pip install -r requirements.txt
-Run
+  pip install -r requirements.txt
+Run:
 python rag_qa.py --query "Your question here"
 
 
